@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ua.com.qualight.pylypchuk.circle.Circle;
+import ua.com.qalight.pylypchuk.circle.Circle;
 
 public class CircleTest {
 

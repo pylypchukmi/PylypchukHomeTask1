@@ -1,4 +1,4 @@
-package ua.com.qualight.pylypchuk;
+package ua.com.qalight.pylypchuk;
 
 public interface Shape {
 

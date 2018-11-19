@@ -1,6 +1,6 @@
-package ua.com.qualight.pylypchuk.circle;
+package ua.com.qalight.pylypchuk.circle;
 
-import ua.com.qualight.pylypchuk.AbstractShape;
+import ua.com.qalight.pylypchuk.AbstractShape;
 
 public class Circle extends AbstractShape {
 	

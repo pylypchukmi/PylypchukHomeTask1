@@ -1,10 +1,10 @@
-package ua.com.qualight.pylypchuk;
+package ua.com.qalight.pylypchuk;
 
 import java.util.logging.Logger;
 
-import ua.com.qualight.pylypchuk.circle.Circle;
-import ua.com.qualight.pylypchuk.square.Square;
-import ua.com.qualight.pylypchuk.triangle.Triangle;
+import ua.com.qalight.pylypchuk.circle.Circle;
+import ua.com.qalight.pylypchuk.square.Square;
+import ua.com.qalight.pylypchuk.triangle.Triangle;
 
 public class AppRunner {
 	Triangle triangle = new Triangle();

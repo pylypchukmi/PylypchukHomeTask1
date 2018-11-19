@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ua.com.qualight.pylypchuk.triangle.Triangle;
+import ua.com.qalight.pylypchuk.triangle.Triangle;
 
 public class TriangleTest {
 

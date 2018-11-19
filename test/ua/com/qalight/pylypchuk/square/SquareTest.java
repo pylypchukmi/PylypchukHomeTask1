@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ua.com.qualight.pylypchuk.square.Square;
+import ua.com.qalight.pylypchuk.square.Square;
 
 public class SquareTest {
 

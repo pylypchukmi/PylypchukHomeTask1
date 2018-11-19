@@ -1,6 +1,6 @@
-package ua.com.qualight.pylypchuk.triangle;
+package ua.com.qalight.pylypchuk.triangle;
 
-import ua.com.qualight.pylypchuk.AbstractShape;
+import ua.com.qalight.pylypchuk.AbstractShape;
 
 public class Triangle extends AbstractShape {
 
